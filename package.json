@@ -1,0 +1,19 @@
+{
+  "name": "liukailei1704",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/349280183/liukailei1702.git"
+  },
+  "author": "Ethan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/349280183/liukailei1702/issues"
+  },
+  "homepage": "https://github.com/349280183/liukailei1702#readme"
+}
